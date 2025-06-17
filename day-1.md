@@ -1,4 +1,6 @@
 # レベル 1 の見出し
+<img alt="曇りの朝" src="https://octodex.github.com/images/cloud.jpg"
+ width="100" align="right">
 ## レベル 2 の見出し①
 ## レベル 2 の見出し②
 - [ ] トピックのアイデアについて[github ブログ](https://github.blog/) で確認する。
